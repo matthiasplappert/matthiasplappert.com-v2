@@ -5,7 +5,7 @@
  **/
 const nextConfig = {
   output: 'export',
-  basePath: '/nextjs-test',
+  basePath: '/matthiasplappert.com-v2',
   experimental: {
     appDir: true,
   },
